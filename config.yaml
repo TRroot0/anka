@@ -1,0 +1,11 @@
+bot:
+   token: "ODUyMjM3NjY2Nzc0Njc5NjQy.YMD6LQ.xeOkm-bXTwdaFeNZBM08WYg9p6U"
+
+   owners: ["803116473744621569"]
+
+server:
+   voiceChannel: "850753835877793822"
+   tagliAlim: ""
+   toplantı: ""
+   yetkiliGiris: "https://cdn.discordapp.com/attachments/852214733305020446/852238364442886164/1.mp3"
+   register: "847185070581612577"
