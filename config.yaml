@@ -1,11 +1,11 @@
 bot:
-   token: "ODUyMjM3NjY2Nzc0Njc5NjQy.YMD6LQ.xeOkm-bXTwdaFeNZBM08WYg9p6U"
+token: "ODUyMjM3NjY2Nzc0Njc5NjQy.YMD6LQ.WjlAVGLp22r7ibsQDK-m-0tB-K0"
 
-   owners: ["803116473744621569"]
+owners: ["681137419663441933"]
 
 server:
-   voiceChannel: "850753835877793822"
-   tagliAlim: ""
-   toplantı: ""
-   yetkiliGiris: "https://cdn.discordapp.com/attachments/852214733305020446/852238364442886164/1.mp3"
-   register: "847185070581612577"
+voiceChannel: "877561863121010773"
+tagliAlim: "https://cdn.discordapp.com/attachments/851416099098329129/852267763531120690/PTT-20210609-WA0017.opus"
+toplantı: "https://cdn.discordapp.com/attachments/851416099098329129/852267763531120690/PTT-20210609-WA0017.opus"
+yetkiliGiris: "https://cdn.discordapp.com/attachments/851416099098329129/852267763531120690/PTT-20210609-WA0017.opus"
+register: "877672510961901638"
